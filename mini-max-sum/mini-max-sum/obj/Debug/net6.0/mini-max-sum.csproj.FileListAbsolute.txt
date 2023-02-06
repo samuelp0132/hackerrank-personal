@@ -1,0 +1,15 @@
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/bin/Debug/net6.0/mini-max-sum
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/bin/Debug/net6.0/mini-max-sum.deps.json
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/bin/Debug/net6.0/mini-max-sum.runtimeconfig.json
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/bin/Debug/net6.0/mini-max-sum.dll
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/bin/Debug/net6.0/mini-max-sum.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/obj/Debug/net6.0/mini-max-sum.csproj.AssemblyReference.cache
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/obj/Debug/net6.0/mini-max-sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/obj/Debug/net6.0/mini-max-sum.AssemblyInfoInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/obj/Debug/net6.0/mini-max-sum.AssemblyInfo.cs
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/obj/Debug/net6.0/mini-max-sum.csproj.CoreCompileInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/obj/Debug/net6.0/mini-max-sum.dll
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/obj/Debug/net6.0/refint/mini-max-sum.dll
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/obj/Debug/net6.0/mini-max-sum.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/obj/Debug/net6.0/mini-max-sum.genruntimeconfig.cache
+/Users/samuelperalta/Documents/repos/hackerrank/mini-max-sum/mini-max-sum/obj/Debug/net6.0/ref/mini-max-sum.dll

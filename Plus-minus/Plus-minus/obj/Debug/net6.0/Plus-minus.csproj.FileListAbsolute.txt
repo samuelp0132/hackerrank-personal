@@ -1,0 +1,15 @@
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/bin/Debug/net6.0/Plus-minus
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/bin/Debug/net6.0/Plus-minus.deps.json
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/bin/Debug/net6.0/Plus-minus.runtimeconfig.json
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/bin/Debug/net6.0/Plus-minus.dll
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/bin/Debug/net6.0/Plus-minus.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/obj/Debug/net6.0/Plus-minus.csproj.AssemblyReference.cache
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/obj/Debug/net6.0/Plus-minus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/obj/Debug/net6.0/Plus-minus.AssemblyInfoInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/obj/Debug/net6.0/Plus-minus.AssemblyInfo.cs
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/obj/Debug/net6.0/Plus-minus.csproj.CoreCompileInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/obj/Debug/net6.0/Plus-minus.dll
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/obj/Debug/net6.0/refint/Plus-minus.dll
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/obj/Debug/net6.0/Plus-minus.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/obj/Debug/net6.0/Plus-minus.genruntimeconfig.cache
+/Users/samuelperalta/Documents/repos/hackerrank/Plus-minus/Plus-minus/obj/Debug/net6.0/ref/Plus-minus.dll

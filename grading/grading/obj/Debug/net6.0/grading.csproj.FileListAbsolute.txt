@@ -1,0 +1,15 @@
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/bin/Debug/net6.0/grading
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/bin/Debug/net6.0/grading.deps.json
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/bin/Debug/net6.0/grading.runtimeconfig.json
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/bin/Debug/net6.0/grading.dll
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/bin/Debug/net6.0/grading.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/obj/Debug/net6.0/grading.csproj.AssemblyReference.cache
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/obj/Debug/net6.0/grading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/obj/Debug/net6.0/grading.AssemblyInfoInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/obj/Debug/net6.0/grading.AssemblyInfo.cs
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/obj/Debug/net6.0/grading.csproj.CoreCompileInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/obj/Debug/net6.0/grading.dll
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/obj/Debug/net6.0/refint/grading.dll
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/obj/Debug/net6.0/grading.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/obj/Debug/net6.0/grading.genruntimeconfig.cache
+/Users/samuelperalta/Documents/repos/hackerrank/grading/grading/obj/Debug/net6.0/ref/grading.dll

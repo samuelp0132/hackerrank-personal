@@ -1,0 +1,15 @@
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/bin/Debug/net6.0/compare-the-triplets
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/bin/Debug/net6.0/compare-the-triplets.deps.json
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/bin/Debug/net6.0/compare-the-triplets.runtimeconfig.json
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/bin/Debug/net6.0/compare-the-triplets.dll
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/bin/Debug/net6.0/compare-the-triplets.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/obj/Debug/net6.0/compare-the-triplets.csproj.AssemblyReference.cache
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/obj/Debug/net6.0/compare-the-triplets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/obj/Debug/net6.0/compare-the-triplets.AssemblyInfoInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/obj/Debug/net6.0/compare-the-triplets.AssemblyInfo.cs
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/obj/Debug/net6.0/compare-the-triplets.csproj.CoreCompileInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/obj/Debug/net6.0/compare-the-triplets.dll
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/obj/Debug/net6.0/refint/compare-the-triplets.dll
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/obj/Debug/net6.0/compare-the-triplets.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/obj/Debug/net6.0/compare-the-triplets.genruntimeconfig.cache
+/Users/samuelperalta/Documents/repos/hackerrank/compare-the-triplets/compare-the-triplets/obj/Debug/net6.0/ref/compare-the-triplets.dll

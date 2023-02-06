@@ -1,0 +1,15 @@
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/bin/Debug/net6.0/bithday-cake-problems
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/bin/Debug/net6.0/bithday-cake-problems.deps.json
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/bin/Debug/net6.0/bithday-cake-problems.runtimeconfig.json
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/bin/Debug/net6.0/bithday-cake-problems.dll
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/bin/Debug/net6.0/bithday-cake-problems.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/obj/Debug/net6.0/bithday-cake-problems.csproj.AssemblyReference.cache
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/obj/Debug/net6.0/bithday-cake-problems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/obj/Debug/net6.0/bithday-cake-problems.AssemblyInfoInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/obj/Debug/net6.0/bithday-cake-problems.AssemblyInfo.cs
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/obj/Debug/net6.0/bithday-cake-problems.csproj.CoreCompileInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/obj/Debug/net6.0/bithday-cake-problems.dll
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/obj/Debug/net6.0/refint/bithday-cake-problems.dll
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/obj/Debug/net6.0/bithday-cake-problems.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/obj/Debug/net6.0/bithday-cake-problems.genruntimeconfig.cache
+/Users/samuelperalta/Documents/repos/hackerrank/bithday-cake-problems/bithday-cake-problems/obj/Debug/net6.0/ref/bithday-cake-problems.dll

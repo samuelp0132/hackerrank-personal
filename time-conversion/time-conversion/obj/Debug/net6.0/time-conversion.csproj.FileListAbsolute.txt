@@ -1,0 +1,15 @@
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/bin/Debug/net6.0/time-conversion
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/bin/Debug/net6.0/time-conversion.deps.json
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/bin/Debug/net6.0/time-conversion.runtimeconfig.json
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/bin/Debug/net6.0/time-conversion.dll
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/bin/Debug/net6.0/time-conversion.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/obj/Debug/net6.0/time-conversion.csproj.AssemblyReference.cache
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/obj/Debug/net6.0/time-conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/obj/Debug/net6.0/time-conversion.AssemblyInfoInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/obj/Debug/net6.0/time-conversion.AssemblyInfo.cs
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/obj/Debug/net6.0/time-conversion.csproj.CoreCompileInputs.cache
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/obj/Debug/net6.0/time-conversion.dll
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/obj/Debug/net6.0/refint/time-conversion.dll
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/obj/Debug/net6.0/time-conversion.pdb
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/obj/Debug/net6.0/time-conversion.genruntimeconfig.cache
+/Users/samuelperalta/Documents/repos/hackerrank/time-conversion/time-conversion/obj/Debug/net6.0/ref/time-conversion.dll
